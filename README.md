@@ -1,2 +1,2 @@
 # churn-prediction
-This is my secon repository
+This is my second repository
